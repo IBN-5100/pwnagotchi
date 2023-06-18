@@ -143,7 +143,7 @@ ai.params.verbose = 1
 ai.params.lr_schedule = "constant"
 
 personality.advertise = true
-personality.deauth = true
+personality.deauth = false
 personality.associate = true
 personality.channels = []
 personality.min_rssi = -200
